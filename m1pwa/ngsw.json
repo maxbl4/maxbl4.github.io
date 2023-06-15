@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1686836239393,
-  "index": "/index.html",
+  "timestamp": 1686836929191,
+  "index": "/m1pwa/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,16 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "/favicon.ico",
-        "/index.html",
-        "/main.8a845a0ebdfda58a.js",
-        "/manifest.webmanifest",
-        "/ngsw-worker.js",
-        "/polyfills.88948eedff87b1cc.js",
-        "/runtime.539888001984558a.js",
-        "/safety-worker.js",
-        "/styles.ef46db3751d8e999.css",
-        "/worker-basic.min.js"
+        "/m1pwa/favicon.ico",
+        "/m1pwa/index.html",
+        "/m1pwa/main.8a845a0ebdfda58a.js",
+        "/m1pwa/manifest.webmanifest",
+        "/m1pwa/polyfills.88948eedff87b1cc.js",
+        "/m1pwa/runtime.539888001984558a.js",
+        "/m1pwa/styles.ef46db3751d8e999.css"
       ],
       "patterns": []
     },
@@ -32,38 +29,35 @@
         "ignoreVary": true
       },
       "urls": [
-        "/assets/icons/icon-128x128.png",
-        "/assets/icons/icon-144x144.png",
-        "/assets/icons/icon-152x152.png",
-        "/assets/icons/icon-192x192.png",
-        "/assets/icons/icon-384x384.png",
-        "/assets/icons/icon-512x512.png",
-        "/assets/icons/icon-72x72.png",
-        "/assets/icons/icon-96x96.png"
+        "/m1pwa/assets/icons/icon-128x128.png",
+        "/m1pwa/assets/icons/icon-144x144.png",
+        "/m1pwa/assets/icons/icon-152x152.png",
+        "/m1pwa/assets/icons/icon-192x192.png",
+        "/m1pwa/assets/icons/icon-384x384.png",
+        "/m1pwa/assets/icons/icon-512x512.png",
+        "/m1pwa/assets/icons/icon-72x72.png",
+        "/m1pwa/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/assets/icons/icon-128x128.png": "b1f06c7d714abb4a0cc4d1f7c954feb26826e4c4",
-    "/assets/icons/icon-144x144.png": "96a0d629765c1bc85d9263c6bc83094ca776d267",
-    "/assets/icons/icon-152x152.png": "b1fbbee3902eb96a7658e3bb006f31f78ca5a44c",
-    "/assets/icons/icon-192x192.png": "e4211163bf0911688fbfb80278d8ff4d2f77691d",
-    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "/assets/icons/icon-72x72.png": "279825a1ac4377032ae996a1832c641e33ccf1b6",
-    "/assets/icons/icon-96x96.png": "592885efcbfee27e5e20be4fa3043589390d2740",
-    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "a04eb37c546532e26c6f1c5addee4892bca7fd4d",
-    "/main.8a845a0ebdfda58a.js": "9d504b815b5a96f538ff2013faeea446c1607098",
-    "/manifest.webmanifest": "505957f352bba2da6dfbb8e170dfa8f42c0de2a1",
-    "/ngsw-worker.js": "0636befc6631d9e6f9949ff1e570ff178b0d800e",
-    "/polyfills.88948eedff87b1cc.js": "859fcdc9c3ae70854f0226ea2f05fbc564e8684e",
-    "/runtime.539888001984558a.js": "d57cd8b3ee3b9e2ac2a0b3c4ac7b5241256d1d1f",
-    "/safety-worker.js": "70914dc203fa1f881e56f2b794d7a4f9c48ee745",
-    "/styles.ef46db3751d8e999.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-    "/worker-basic.min.js": "70914dc203fa1f881e56f2b794d7a4f9c48ee745"
+    "/m1pwa/assets/icons/icon-128x128.png": "b1f06c7d714abb4a0cc4d1f7c954feb26826e4c4",
+    "/m1pwa/assets/icons/icon-144x144.png": "96a0d629765c1bc85d9263c6bc83094ca776d267",
+    "/m1pwa/assets/icons/icon-152x152.png": "b1fbbee3902eb96a7658e3bb006f31f78ca5a44c",
+    "/m1pwa/assets/icons/icon-192x192.png": "e4211163bf0911688fbfb80278d8ff4d2f77691d",
+    "/m1pwa/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/m1pwa/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/m1pwa/assets/icons/icon-72x72.png": "279825a1ac4377032ae996a1832c641e33ccf1b6",
+    "/m1pwa/assets/icons/icon-96x96.png": "592885efcbfee27e5e20be4fa3043589390d2740",
+    "/m1pwa/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/m1pwa/index.html": "a8b7f88861ce6365192a23a1cc781ec1378e937a",
+    "/m1pwa/main.8a845a0ebdfda58a.js": "9d504b815b5a96f538ff2013faeea446c1607098",
+    "/m1pwa/manifest.webmanifest": "505957f352bba2da6dfbb8e170dfa8f42c0de2a1",
+    "/m1pwa/polyfills.88948eedff87b1cc.js": "859fcdc9c3ae70854f0226ea2f05fbc564e8684e",
+    "/m1pwa/runtime.539888001984558a.js": "d57cd8b3ee3b9e2ac2a0b3c4ac7b5241256d1d1f",
+    "/m1pwa/styles.ef46db3751d8e999.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
   },
   "navigationUrls": [
     {
